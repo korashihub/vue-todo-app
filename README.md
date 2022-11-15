@@ -1,4 +1,5 @@
 # vue-todo-app
+It is a simple to do list application developed with Vue 3.
 
 ## Project setup
 ```
@@ -19,6 +20,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
